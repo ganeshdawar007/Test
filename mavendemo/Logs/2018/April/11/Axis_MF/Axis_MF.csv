@@ -1,0 +1,8 @@
+Page,ResponseTime,Time,Error,Status,Error Screenshot File Location,Bandwidth
+Get Premium For Health AssuranceV2,7.95,16:48: 45 ,NA,PASS,,,
+Get Premium for Individual And Family FloaterV4,0.23,16:48: 48 ,NA,PASS,,,
+Get Premium for Family FirstV4,0.26,16:48: 50 ,NA,PASS,,,
+Agent Status Channel,0.29,16:48: 53 ,NA,PASS,,,
+Renewal(Get Data),0.32,16:48: 55 ,NA,PASS,,,
+Policy Documents/Tax Receipts Details,7.16,16:49: 4 ,NA,PASS,,,
+Transaction SMS Send,0.49,16:49: 6 ,NA,PASS,,,
